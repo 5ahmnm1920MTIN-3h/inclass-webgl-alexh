@@ -1,13 +1,13 @@
 # inclass-webgl-alexh
 
 ### Project description: 
-Introduction/Project summary 
+WebGL testing repository and hosting.
 
 ### Development platform: 
-(OS, Unity Version, Visual Studio Version, used SDKs)
+Windows 10, Unity 2019.1.14f1, Visual Studio Community 2017 V15.9.10, Scripting Runtime Version .NET 4.x Equivalent
 
 ### Target platform: 
-WebGL, Mobile, VR Device incl. reference resolution 
+WebGL, reference resolution 900x600
 
 ### Visuals: 
 Screenshots (concept and experience), Video
@@ -25,4 +25,4 @@ incl. progress in percent
 
 ### Lessons Learned: 
 
-Copyright by you :)
+Copyright by Alexander Hoedlmoser

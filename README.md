@@ -23,6 +23,8 @@ incl. progress in percent
 
 ### Limitations: 
 
-### Lessons Learned: 
+### Lessons Learned:
+* Switch Platform from Standalone to WebGL
+* Build WebGL
 
 Copyright by Alexander Hoedlmoser

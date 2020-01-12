@@ -4,31 +4,32 @@
 WebGL testing repository and hosting.
 
 ### Development platform: 
-Windows 10, Unity 2019.1.14f1, Visual Studio Community 2017 V15.9.10, Scripting Runtime Version .NET 4.x Equivalent
+* OS: Windows 10 Version 1909
+* Engine: Unity 2019.1.14f1
+* IDE: Visual Studio Community 2019 Version 16.4.0
+* Scripting Runtime Version: .NET 4.x Equivalent
+* API Compatibility Level: .NET Standard 2.0
 
 ### Target platform: 
-WebGL, reference resolution 900x600
+WebGL, reference resolution 960x600
 
 ### Visuals: 
-Screenshots (concept and experience), Video
 * None
 
 ### Necessary setup/execution steps: 
-Installation process, e.g. step by step instructions that I can run the project after cloning it
 * None
 
-### Third party material: 
-(if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
+### Third party material:
 * None
 
 ### Project state: 
-incl. progress in percent
+100% completed
 
 ### Limitations: 
 
 ### Lessons Learned:
 * Switch Platform from Standalone to WebGL
 * Build WebGL
-GitHub Pages, with docs
+* GitHub Pages, with docs
 
 Copyright by Alexander Hoedlmoser
